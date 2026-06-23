@@ -36,6 +36,6 @@ I am a Computer Science student at **Brightlearn** with a passion for building c
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RefiloeNkosi&show_icons=true&theme=tokyonight&count_private=true" alt="Refiloe's GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=RefiloeNkosi&theme=tokyonight" alt="Refiloe's GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=refiloefifinkosi&show_icons=true&theme=tokyonight&count_private=true" alt="Refiloe's GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=refiloefifinkosi&theme=tokyonight" alt="Refiloe's GitHub Streak" height="180" />
 </p>
